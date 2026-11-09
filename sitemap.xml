@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://villamadridcoin.com/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <image:image><image:loc>https://villamadridcoin.com/img/coin-square-1600.webp</image:loc></image:image>
+    <image:image><image:loc>https://villamadridcoin.com/img/pool-loungers-1600.webp</image:loc></image:image>
+    <image:image><image:loc>https://villamadridcoin.com/img/villa-above-1600.webp</image:loc></image:image>
+    <image:image><image:loc>https://villamadridcoin.com/img/porch-lounge-1600.webp</image:loc></image:image>
+    <image:image><image:loc>https://villamadridcoin.com/img/lounge-1600.webp</image:loc></image:image>
+    <image:image><image:loc>https://villamadridcoin.com/img/view-coin-1600.webp</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://villamadridcoin.com/img/hero-poster.webp</video:thumbnail_loc>
+      <video:title>Villa Madrid video tour, Coín, Málaga</video:title>
+      <video:description>A four-minute tour of Villa Madrid: the heated pool, terraces, lounge, kitchen, three bedrooms and views over Coín.</video:description>
+      <video:content_loc>https://villamadridcoin.com/video/tour-1080.mp4</video:content_loc>
+      <video:duration>251</video:duration>
+    </video:video>
+  </url>
+</urlset>
